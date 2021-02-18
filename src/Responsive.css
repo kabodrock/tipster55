@@ -1,0 +1,627 @@
+
+@media (max-width: 1199.98px) {
+    .bg-header {
+        border: none;
+        /* border-radius: 50%; */
+        background: rgba(0,0,0,0.4);
+        border-radius: 60% 0% 0% 60%;
+        padding: 0px;
+        margin: 0;
+        margin-left: 30%;
+      }
+      .header-text {
+        text-align: right;
+        margin-right: 60px;
+        margin-top: 280px;
+        color: #fff;
+        padding: 60px;
+      }
+      .nav-link {
+        margin-left: 0px;
+    }
+    .login-btn {
+        padding: 2px 15px;
+        font-size: 1.2rem;
+        margin-left: 0px;
+        /* margin: 10px; */
+    }
+    /* today free tip */
+    .table-body td {
+        padding: 5px;
+    }
+    .credit-pack th {
+        font-size: 0.8rem !important;
+        padding: 13px 0;
+    }
+    .button-credit {
+        margin: 5px auto;
+        height: 60px;
+        width: 110px;
+        font-size: 14px;
+    }
+    p.credit-price {
+        font-size: 30px;
+        padding-top: 15px;
+    }
+    .credit-bg span {
+        padding-top: 3px;
+        padding-left: 0px;
+        font-size: 9px;
+    }
+    /* tipster profile */
+  .number-tips {
+    width: 180px;
+    padding: 8px 0px;
+  }
+  .span-tips {
+    padding: 8px 15px;
+  }
+  /* payment */
+  .checkout p {
+    font-size: 0.5rem;
+}
+.payments img {
+    width: 70%;
+}
+.all2-btn {
+    padding: 8px 9px;
+    font-size: 0.5rem;
+}
+/* item in cart */
+.items-th .col {
+    font-size: 0.8rem;
+}
+.items-in-cart th {
+    font-size: 0.8rem;
+}
+.cart-items p,.cart-items p span {
+    font-size: 0.7rem;
+}
+.cart-items .col {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+}
+@media (max-width: 991.98px) {
+    /* home */
+    .bg-header {
+        border: none;
+        /* border-radius: 50%; */
+        background: rgba(0,0,0,0.7);
+        border-radius: 100% 0% 0% 100%;
+        padding: 0px;
+        margin: 0;
+        margin-left: 20%;
+        /* float: right; */
+        /* width: 100px; */
+      }
+      .header-text {
+        text-align: right;
+        margin-right: 0px;
+        padding-right: 60px;
+        margin-top: 35%;
+        color: #fff;
+        padding: 60px;
+      }
+      .header-text h1 {
+        font-size: 5rem;
+      }
+      .header-text h4 {
+        font-size: 2.8rem;
+      }
+      .logo-center {
+          margin-left: 0px !important;
+      }
+    /* header */
+    .login-btn {
+        margin-top: 10px;
+        margin-left: 0px;
+      }
+    .nav-link {
+        color: #fff !important;
+      }
+      /* span.badge {
+        border-radius: 50px;
+        background-color: #000;
+        color: red;
+      } */
+      span.navbar-toggler-icon {
+          color: #fff;
+      }
+      hr.line-menu {
+        display: block;
+
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+        border: 0;
+        border-top: 1px solid #fff;
+      }
+    /* today free tip */
+    .table-header th {
+        font-size: 0.8rem;
+    }
+    .responsive-hide {
+        display: none;
+    }
+    /* promotion */
+    .more-text img{
+        width: 86%;
+    }
+    /* member */
+    .edit-profile img {
+        width: 50%;
+    }
+    .your-credits p {
+        font-size: 1.5rem;
+    }
+    .your-credits span {
+        font-size: 1.8rem;
+    }
+    .yesterday-tips p, .today-tips p, .detail-tips p {
+        margin-bottom: 0;
+        font-size: 0.8rem;
+    }
+    /* tipster profile */
+  .number-tips {
+    width: 160px;
+  }
+  .span-tips, .span-num,.number-tips {
+    font-size: 0.8rem;
+  }
+  /* payment */
+  .checkout p {
+    font-size: 0.3rem;
+}
+.payments img {
+    width: 90%;
+}
+.all2-btn {
+    padding: 8px 9px;
+    font-size: 0.5rem;
+}
+.pro-code {
+    padding: 5px 0;
+}
+.checkout .col {
+    padding-left: 0;
+    padding-right: 0;
+}
+.payments, .button-select-payment, .button-select-country {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.all-btn {
+    margin: 0 5px;
+}
+/* item in cart */
+.items-th .col ,.items-in-cart th{
+    font-size: 0.8rem;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.cart-items p,.cart-items p span {
+    font-size: 0.6rem;
+}
+.Confirm-btn {
+    font-size: 0.6rem;
+}
+/* modal login */
+.bg-login {
+    margin: 20% 80px 0px 80px;
+    }
+}
+@media (max-width: 767.98px) {
+    /* home */
+    .bg-header {
+        border: none;
+        /* border-radius: 50%; */
+        background: rgba(0,0,0,0.7);
+        border-radius: 100% 0% 0% 100%;
+        padding: 0px;
+        margin: 0;
+        margin-left: 20%;
+        /* float: right; */
+        /* width: 100px; */
+      }
+      .header-text {
+        text-align: right;
+        padding-right: 60px;
+        margin-top: 50%;
+        color: #fff;
+        padding: 40px;
+      }
+      .header-text h1 {
+        font-size: 3.6rem;
+      }
+      .header-text h4 {
+        font-size: 2rem;
+      }
+      .reg-btn {
+        padding: 5px 30px;
+        font-size: 1.2rem;
+        margin: 5px;
+      }
+      .pro-btn {
+        padding: 5px 20px;
+        font-size: 1.2rem;
+        margin: 5px;
+      }
+      /* select tips */
+      .feed-full h3 span, .feed-half h3 span {
+        font-size: 1.5rem;
+    }
+    .feed-full h3, .feed-half h3 {
+        font-size: 1.2rem;
+    }
+    /* today free tip */
+    .table-header th {
+        font-size: 0.7rem;
+    }
+    .table-body td {
+        padding: 3px;
+    }
+    .table-body td p,.table-body td p span {
+        font-size: 0.3rem;
+        margin-bottom: 0;
+    }
+    .login-to-btn {
+        font-size: 0.3rem;
+        padding: 3px;
+    }
+    .betting-type select,.betting-type option {
+        font-size: 0.8rem;
+    }
+    /* promotion */
+    .promotion-text {
+        padding: 10px;
+        height: auto;;
+    }
+    .promotion-text p {
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+    .row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    /* profile setting */
+    .profile-left label, .profile-right {
+        font-size: 0.8rem;
+    }
+    .profile-left input[type="text"],
+    .profile-left input[type="date"],
+    .profile-left input[type="email"],
+    .profile-left input[type="tel"],
+    .profile-left input[type="password"] {
+    height: 30px;
+    width: 50%;
+    }
+    /* member */
+    .edit-profile img {
+        width: 60%;
+    }
+    .your-credits p {
+        font-size: 1.2rem;
+    }
+    .your-credits span {
+        font-size: 1.5rem;
+    }
+    .yesterday-tips p, .today-tips p, .detail-tips p {
+        margin-bottom: 0;
+        font-size: 0.6rem;
+    }
+    .yesterday-tips .col-4, .today-tips .col-4, .detail-tips .col-4 {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .more-text2 .col-6, .more-text2 .col-6, .more-text2 .col-6 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .more-text2 {
+        padding: 10px;
+    }
+    /* tipster profile */
+  .number-tips {
+    width: 120px;
+  }
+  .span-tips, .span-num,.number-tips {
+    font-size: 0.5rem;
+  }
+  .span-num {
+      margin-left: 5px;
+  }
+  .span-tips {
+    padding-right: 10px;
+  }
+    /* payment */
+    .all2-btn {
+        padding: 6px 5px;
+        font-size: 0.5rem;
+    }
+    .all-btn {
+        margin: 0 3px;
+    }
+    /* footer */
+    .footer-link a {
+        font-size: 0.8rem;
+    }
+    /* modal login */
+    .bg-login {
+        margin: 15% 80px 0px 80px;
+    }
+}
+@media (max-width: 575.98px) {
+    /* home */
+    .bg-header {
+        border: none;
+        /* border-radius: 50%; */
+        background: rgba(0,0,0,0.7);
+        border-radius: 100% 0% 0% 100%;
+        padding: 0px;
+        margin: 0;
+        margin-left: 7%;
+        /* float: right; */
+        /* width: 100px; */
+      }
+      .header-text {
+        text-align: right;
+        padding-right: 60px;
+        margin-top: 60%;
+        color: #fff;
+        padding: 35px;
+      }
+      .header-text h1 {
+        font-size: 2.9rem;
+      }
+      .header-text h4 {
+        font-size: 1.5rem;
+      }
+    /* today free tip */
+    .table-header th {
+        padding: 4px;
+        /* font-size: 0.5rem; */
+    }
+    .table-body td {
+        padding: 2px;
+    }
+    .table-body td p,.table-body td p span {
+        font-size: 0.2rem;
+        margin-bottom: 0;
+    }
+    
+    .login-to-btn {
+        font-size: 0.2rem;
+        padding: 2px;
+    }
+    .tips-table {
+        width: 90%;
+    }
+    .betting-type {
+        margin-left: 30px;
+        width: 90%;
+    }
+    .betting-type select,.betting-type option {
+        font-size: 0.6rem;
+    }
+    .topic {
+        font-size: 1.5rem;
+    }
+    /* profile setting */
+    .profile-left input[type="text"],
+    .profile-left input[type="date"],
+    .profile-left input[type="email"],
+    .profile-left input[type="tel"],
+    .profile-left input[type="password"] {
+    height: 30px;
+    width: 100%;
+    }
+    .warn {
+        margin: 0% !important;
+    }
+    .profile-left input[type="checkbox"] {
+        width: 10px;
+        margin: 5px;
+        margin-top: 0px;
+      }
+    .accept-text {
+        width: 200px;
+        font-size: 0.2rem !important;
+      }
+      /* member */
+      .yesterday-tips .col-4, .today-tips .col-4, .detail-tips .col-4 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .edit-profile img {
+        width: 50%;
+    }
+    .edit-profile button {
+        font-size: 0.5rem;
+        margin-top: 15px;
+    }
+    .your-credits p {
+        font-size: 1rem;
+    }
+    .your-credits span {
+        font-size: 1.2rem;
+    }
+     /* tipster profile */
+    .number-tips {
+        width: 180px;
+        margin: 5px 0px;
+    }
+    .span-tips, .span-num,.number-tips {
+        font-size: 0.8rem;
+        /* padding: 5px; */
+    }
+    .span-num {
+        padding-left: 8px;
+        padding-right: 2px;
+    }
+    .span-tips {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    /* select tips */
+    .button-market {
+        padding: 3px 7px;
+        font-size: 0.5rem;
+    }
+    /* payment */
+    .all2-btn {
+        padding: 2px 3px;
+        font-size: 0.5rem;
+        margin: 2px;
+    }
+    .all-btn {
+        margin: 1px;
+        font-size: 0.5rem;
+    }
+    .Proceed-btn {
+        font-size: 0.5rem;
+    }
+    .check-out-p {
+        padding: 20px 0px !important;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .select-method {
+        width: 90%;
+        margin: 0 auto;
+    }
+    /* modal login */
+    .bg-login {
+        margin: 10% 70px 0px 70px;
+        padding: 20px 0px;
+    }
+    .df-form input[type="submit"] {
+        font-size: 1rem;
+    }
+}
+@media (max-width: 375.98px) {
+    /* home */
+    .bg-header {
+        border: none;
+        /* border-radius: 50%; */
+        background: rgba(0,0,0,0.7);
+        border-radius: 100% 0% 0% 100%;
+        padding: 0px;
+        margin: 0;
+        margin-left: 7%;
+        /* float: right; */
+        /* width: 100px; */
+      }
+      .header-text {
+        text-align: right;
+        padding-right: 60px;
+        margin-top: 60%;
+        color: #fff;
+        padding: 35px;
+      }
+      .header-text h1 {
+        font-size: 2.5rem;
+      }
+      .header-text h4 {
+        font-size: 1.3rem;
+      }
+      .reg-btn {
+        padding: 5px 30px;
+        font-size: 1.2rem;
+        margin: 5px;
+      }
+      .pro-btn {
+        padding: 5px 20px;
+        font-size: 1.2rem;
+        margin: 5px;
+      }
+    /* today free tip */
+    .table-header th {
+        font-size: 0.2rem;
+    }
+    .table-body td {
+        padding: 2px;
+        padding-top: 0px;
+    }
+    .table-body td p,.table-body td p span {
+        font-size: 0.2rem !important;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    
+    .login-to-btn {
+        font-size: 0.2rem !important;
+        padding: 1px;
+    }
+    .betting-type {
+        width: 90%;
+    }
+    /* promotion */
+    .promotion-text p {
+        font-size: 0.6rem;
+    }
+    /* register */
+    .profile-text h4 {
+        font-size: 1.2rem;
+    }
+    /* tipster profile */
+    .number-tips {
+        width: 130px;
+        margin: 5px 0px;
+    }
+    .span-tips, .span-num,.number-tips {
+        font-size: 0.5rem;
+        /* padding: 5px; */
+    }
+    .span-num {
+        padding-left: 8px;
+        padding-right: 2px;
+    }
+    .span-tips {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    /* select tips */
+    .button-market {
+        padding: 3px 5px;
+        font-size: 0.3rem;
+    }
+    /* payment */
+    .all2-btn {
+        padding: 3px 5px;
+        font-size: 0.4rem;
+        margin: 2px;
+    }
+    /* item in cart */
+.items-th .col ,.items-in-cart th{
+    font-size: 0.5rem;
+}
+.cart-items p,.cart-items p span {
+    font-size: 0.4rem;
+}
+.Confirm-btn {
+    font-size: 0.4rem;
+    padding: 2px 4px ;
+}
+/* modal login */
+    .bg-login {
+    margin: 10% 20px 0px 20px;
+    padding: 30px 20px;
+}
+.df-form input[type="submit"] {
+    font-size: 0.8rem;
+}
+.bg-login a p ,.bg-login a ,.bg-login span{
+    font-size: 0.6rem;
+  }
+}
+@media (max-width: 280.98px) {
+   /* modal login */
+   .bg-login {
+    margin: 10% 20px 0px 20px;
+    padding: 10px 0px;
+    /* background: none; */
+}
+}
